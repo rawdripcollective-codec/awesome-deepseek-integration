@@ -388,6 +388,11 @@
         <td> 一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。 </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/15042616?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aacode/README.md"> aacode </a> </td>
+        <td> 一个基于 Python 的 CLI 智能编程助手，类似 Claude Code 或 OpenCode，但更轻量、更灵活，支持 DeepSeek 等模型即插即用。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a> </td>
         <td> Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support </td>

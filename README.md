@@ -467,6 +467,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/15042616?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aacode/README.md"> aacode </a> </td>
+        <td> A Python-based CLI coding agent, similar to Claude Code and OpenCode, but lighter and more flexible, featuring pluggable model support for DeepSeek and beyond. </td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/user-attachments/assets/865634cb-1383-4317-a895-dfcb15f11375" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
         <td>Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support</td>
